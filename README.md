@@ -3,7 +3,7 @@ This project is an Electricity Billing System developed in Java using JDBC for d
 
 Getting Started
 To get started with this project, you'll need to have Java and MySQL installed on your system. You can clone the repository to your local machine using the following command:
-git clone https://github.com/[USERNAME]/electricity-billing-system.git
+git clone https://github.com/Raj-kumarpatidar/electricity-billing-system.git
 
 Project Structure
 The project is structured into the following directories:
